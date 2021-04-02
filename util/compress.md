@@ -1,0 +1,2 @@
+- 程序员需要了解的硬核知识之压缩算法 https://juejin.cn/post/6844903988282785799
+- 【译】十款性能最佳的压缩算法 https://www.cnblogs.com/huxi2b/p/12989317.html
